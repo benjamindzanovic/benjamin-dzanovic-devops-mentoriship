@@ -1,0 +1,4 @@
+for test in Nevada "New Hampshire" "New Mexico" "New Year" "North Carolina"
+do
+echo "Now going to $test"
+done
